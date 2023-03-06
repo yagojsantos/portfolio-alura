@@ -23,7 +23,7 @@ Foram elaboradas as páginas de “Home” e “Sobre mim”, utilizando as estr
 * Variáveis CSS;
 * Media Queries.
 
-<strong>A página é responsiva e se adequa à tamanhos de telas diferentes.</strong>
+<strong>A página é responsiva e se adequa à tamanhos de telas diferentes. <a href="https://www.figma.com/file/sEa23Xugzchw2BrCKJjVzf/Portfolio-Projeto-2-(Copy)?node-id=0%3A1&t=y0oplZDgD4x598ym-0">Modelo no Figma.</a></strong>
 
 Essa formação é uma atualização do conjunto de cursos anteriormente ministrados pelo instrutor Pedro Marins, onde o projeto <a href="https://github.com/yagojsantos/barbearia-alura-completa">Barbearia Alura </a>foi desenvolvido.
 
